@@ -1,4 +1,5 @@
 Executive Summary
+
 This project involves data cleaning and preprocessing on the "Customer Personality Analysis" dataset to prepare it for further analysis and clustering. The primary goal was to structure, enhance, and clean the data to ensure quality and relevance for downstream analytics.
 
 Key Steps in Data Cleaning and Preprocessing
